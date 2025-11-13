@@ -1,14 +1,12 @@
 # 👋Hi! I'm Jakub
-IT student and **Web Developer**
 
 ✅ What I use in my projects:
 * React
 * Next.js
-* JavaScript
 * TypeScript
 * SASS
 * Git/GitHub
-* Tailwind CSS
+* Tailwind
 * Styled-Components
 * MUI
 * Node.js
