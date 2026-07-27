@@ -18,5 +18,5 @@
 miskojakub@gmail.com
 
 # Current projects 💡
-https://review-guard-ebon.vercel.app/
-https://podlogimisko.pl/
+https://review-guard-ebon.vercel.app/ <br> 👈 build with Codex
+https://podlogimisko.pl/ 👈 build with Codex
