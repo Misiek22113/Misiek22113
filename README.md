@@ -4,14 +4,15 @@
 * React
 * Next.js
 * TypeScript
-* SASS
+* Node.js
+* Express.js
+* Nest.js
+* Codex
+* Github Copilot
 * Git/GitHub
 * Tailwind
 * Styled-Components
 * MUI
-* Node.js
-* Express.js
-* Nest.js
 
 
 # Contact ☎️
