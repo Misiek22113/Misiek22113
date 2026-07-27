@@ -1,5 +1,9 @@
 # 👋Hi! I'm Jakub
 
+# Current projects 💡
+https://review-guard-ebon.vercel.app/ 👈 build with Codex <br>
+https://podlogimisko.pl/ 👈 build with Codex
+
 ✅ What I use in my projects:
 * React
 * Next.js
@@ -14,10 +18,6 @@
 * Styled-Components
 * MUI
 
-
 # Contact ☎️
 miskojakub@gmail.com
 
-# Current projects 💡
-https://review-guard-ebon.vercel.app/ 👈 build with Codex <br>
-https://podlogimisko.pl/ 👈 build with Codex
